@@ -2,4 +2,8 @@
     <string name="app_name">utoilets</string>
     <string name="tab_text_1">Undiscovered</string>
     <string name="tab_text_2">Discovered</string>
+    <string name= "bathroom_1">ECJ Ground Floor (and basement)</string>
+    <string name= "bathroom_1_description">Everyone should go to this bathroom at least once.
+    Experience all in all was adequate, but 50s style design could not be topped.</string>
+
 </resources>
