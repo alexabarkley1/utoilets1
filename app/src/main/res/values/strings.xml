@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">utoilets1</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="app_name">utoilets</string>
+    <string name="tab_text_1">Undiscovered</string>
+    <string name="tab_text_2">Discovered</string>
 </resources>
